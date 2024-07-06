@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://www.w3.org/2001/04/09/pom">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>miracle</groupId>
+        <artifactId>apex-storage</artifactId>
+        <version>1.0</version>
+    </parent>
+    <artifactId>apex-storage-app</artifactId>
+    <description>Storage app module for Apex Project</description>
+</project>
+
